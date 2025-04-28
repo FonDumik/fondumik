@@ -3,6 +3,8 @@
 I'm constantly working on new projects and always looking for interesting challenges. 
 I can create applications in React Native and develop Telegram bots with a user interface.
 
+# [Connect with me](https://t.me/fondumik)
+
 ### My Skills
 - TypeScript
 - JavaScript
