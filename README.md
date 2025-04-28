@@ -13,6 +13,7 @@ I can create applications in React Native and develop Telegram bots with a user 
 - Git
 - Jest
 - Playwright
+- Effector
 
 ### What I Do
 I can write tests and optimize projects. 
